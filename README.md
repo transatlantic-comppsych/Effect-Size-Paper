@@ -1,6 +1,6 @@
 # When is a small effect actually large and impactful?
 
-[Access the preprint here]()
+[Access the preprint here](https://psyarxiv.com/v3fjk)
 
 ## Authors
 
@@ -8,7 +8,7 @@
 
 ## Overview
 
-This repository contains the code and simulated data used in [When is a small effect actually large and impactful?](). 
+This repository contains the code and simulated data used in [When is a small effect actually large and impactful?](https://psyarxiv.com/v3fjk). 
 
 Reporting of effect sizes is standard practice in psychology and psychiatry research. However, interpretation of these effect sizes can be meaningless or misleading – in particular, the evaluation of specific effect sizes as “small”, “medium” and “large” can be inaccurate depending on the research context. A real-world example of this is research into the mental health of children and young people during the Covid-19 pandemic. Evidence suggests that clinicians and services are struggling with increased demand, yet population studies looking at the difference in mental health before and during the pandemic report effect sizes that are deemed “small”. In this short review we utilise simulations to demonstrate that a relatively small shift in mean scores on mental health measures can indicate a large shift in the number of cases of anxiety and depression when scaled up to an entire population. This shows that “small” effect sizes can in some contexts be large and impactful.
 
