@@ -16,4 +16,4 @@ All analyses were conducted in R. Please reach out to the corresponding author (
 
 ## Steps to reproduce results
 
-Run [`CodeForSmallEffect_v1.Rmd`](../master/CodeForSmallEffect_v1). Please edit the number of repeitions to be less than the current published (1000) if you would just like to run a quick demo.
+Run [`CodeForSmallEffect_v1.Rmd`](../master/CodeForSmallEffect_v1). Please edit the number of repetitions to be less than the current published (1000) if you would just like to run a quick demo.
