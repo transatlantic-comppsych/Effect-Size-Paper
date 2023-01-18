@@ -4,7 +4,7 @@
 
 ## Authors
 
-[Emma G. Carey](https://orcid.org/0000-0002-2294-7989), [Isobel Ridler](https://orcid.org/0000-0003-2196-4733), [Tamsin F. Ford](https://orcid.org/0000-0001-5295-4904), [Argyris Stringaris](https://orcid.org/0000-0002-6264-8377)
+[Emma G. Carey](https://orcid.org/0000-0002-2294-7989), [Isobel B. Ridler](https://orcid.org/0000-0003-2196-4733), [Tamsin F. Ford](https://orcid.org/0000-0001-5295-4904), [Argyris Stringaris](https://orcid.org/0000-0002-6264-8377)
 
 ## Overview
 
