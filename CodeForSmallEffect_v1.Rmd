@@ -560,6 +560,18 @@ after_pandemic_scores <- 0  # Initially set variable for after pandemic to 0.
                                          round = TRUE) >= threshold)
  }
 
+## an alternative version noted by Dr Tyler Pritchard in correspondence with us:
+
+# dfs <- pmap(.l=list(Sim=1:1000),
+#            .f=function(Sim){
+#              df <- data.frame(Score=rbnorm(samples[6], 4.92, 4.49, 0, 26, round = TRUE))
+#              tab <- table(df$Score>=12)
+#              return(tab[2])
+#            })
+#df_clean <- do.call(rbind, dfs) %>%
+#  as.data.frame()
+#describe(df_clean)
+
 # Calculate the difference in cases before and after pandemic within the function.
 
 difference_after_before <- after_pandemic_scores - before_pandemic_score
